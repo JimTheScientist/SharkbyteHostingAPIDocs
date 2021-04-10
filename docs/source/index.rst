@@ -9,7 +9,7 @@ the SharkByte service.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   index
 
 
 
