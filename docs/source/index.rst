@@ -10,6 +10,7 @@ the SharkByte service.
 .. toctree::
    :maxdepth: 2
    index
+   Setup
 
 
 
