@@ -11,6 +11,7 @@ the SharkByte service.
    :maxdepth: 2
 
    setup
+   api
 
 Indices and tables
 ==================

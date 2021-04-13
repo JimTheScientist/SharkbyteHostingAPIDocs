@@ -16,7 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
-
+pygments_style = 'sphinx'
 project = 'SharkByteHostingAPIDocs'
 copyright = '2021, JimTheScientist'
 author = 'JimTheScientist'
