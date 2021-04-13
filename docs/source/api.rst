@@ -4,7 +4,7 @@ A short explanation concerning the use of the Sharkbyte Wisp API in Python.
 
 Download the wisp python library
 ###################################
-We will be using my modified version of the wisp.py library, found here: https://pypi.org/project/wisp.py-jimthescientist/1.2.0/
+We will be using my modified version of the wisp.py library, found here: https://pypi.org/project/wispyjim
 
 Use the command   ``pip install wispyjim`` to install the package.
 
