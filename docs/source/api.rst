@@ -15,3 +15,5 @@ Create a file named bot.py, and add the following to the top of the file.
 
 .. literalinclude:: bot.py
   :language: python
+
+Running this file should print the names of all the servers you own.
